@@ -4,7 +4,7 @@ Building AI agents for business. Entrepreneurship grad (cum laude) from the Univ
 
 ## What I'm working on
 
-**EdgeFinder AI** — AI-powered sports-betting analytics platform: live odds ingestion, expected-value and no-vig pricing, confidence scoring, bet tracking, and closing-line-value analysis, with an AI explanation attached to every recommendation. Next.js · React · TypeScript · Tailwind · Claude API · Supabase — shipped to web, iOS, and Android via Capacitor. *Private repo while it heads toward launch; ask me for a demo.*
+**[EdgeFinder AI](https://edgefinder-ai-omega.vercel.app)** — AI-powered sports-betting analytics platform: live odds ingestion, expected-value and no-vig pricing, confidence scoring, bet tracking, and closing-line-value analysis, with an AI explanation attached to every recommendation. Next.js · React · TypeScript · Tailwind · Claude API · Supabase — **live in production**, plus iOS and Android builds via Capacitor. *Source private while it heads toward launch.*
 
 **Aether AI** — my AI automation consultancy: function-scoped AI agents that sit inside one business function at a time — marketing ops, finance, supply chain, sales/CRM, 15 categories in all — read how the process currently runs, and find leverage without disrupting what already works.
 
